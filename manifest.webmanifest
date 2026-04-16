@@ -1,0 +1,17 @@
+{
+  "name": "UTC Solana Mobile",
+  "short_name": "UTC Mobile",
+  "description": "Official website and live dApp for UTC Solana Mobile, including legal pages and an on-chain UTC checkpoint flow.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fc",
+  "theme_color": "#1150ba",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
